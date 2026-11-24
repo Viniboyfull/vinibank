@@ -6,7 +6,17 @@ This is a personal portfolio project developed to practice and demonstrate Front
 
 ## Preview
 
-*Screenshots coming soon.*
+### Dashboard
+
+![ViniBank Dashboard](./screenshots/dashboard.png)
+
+### Virtual Card
+
+![ViniBank Virtual Card](./screenshots/virtual-card.png)
+
+### Financial Analytics
+
+![ViniBank Financial Analytics](./screenshots/financial-analytics.png)
 
 ## Technologies
 
